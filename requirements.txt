@@ -5,3 +5,6 @@ mysql-connector-python
 passlib[bcrypt]
 python-dotenv
 PyJWT
+python-jose
+pydantic[email]
+python-multipart
